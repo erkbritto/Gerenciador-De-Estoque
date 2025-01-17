@@ -1,0 +1,1 @@
+Para fazer uso do projeto você deve instalar as dependencias mysql-connector, dotenv, os, DateTime e criar um arquivo .env como váriavel de ambiênte onde você deve armazenar as informações sensíveis do banco de dados e senhas
